@@ -41,6 +41,7 @@
     "@finsweet/eslint-config": "^3.0.3",
     "@finsweet/tsconfig": "^1.4.2",
     "@playwright/test": "^1.50.1",
+    "@types/three": "^0.176.0",
     "cross-env": "^7.0.3",
     "esbuild": "^0.24.2",
     "eslint": "^9.19.0",
@@ -52,7 +53,8 @@
     "typescript-eslint": "^8.23.0"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.40.0"
+    "@finsweet/ts-utils": "^0.40.0",
+    "three": "^0.176.0"
   },
   "engines": {
     "pnpm": ">=10"
